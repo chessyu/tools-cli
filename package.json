@@ -1,0 +1,32 @@
+{
+  "name": "public-tools-cli",
+  "version": "1.1.6",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Node Cli node 开发小工具 代码生成器",
+  "keywords": [
+    "node",
+    "commander",
+    "inquirer"
+  ],
+  "author": "chessyu",
+  "bin": {
+    "tools": "./cli/index.js"
+  },
+  "devDependencies": {
+    "@darkobits/lolcatjs": "^3.1.5",
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "inquirer": "^8.1.2",
+    "ora": "^6.0.0",
+    "runjs": "^4.4.2",
+    "scp2": "^0.5.0"
+  },
+  "files": [
+    "node_modules",
+    "cli" 
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
