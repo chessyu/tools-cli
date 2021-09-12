@@ -1,6 +1,6 @@
 {
   "name": "public-tools-cli",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "main": "index.js",
   "license": "MIT",
   "description": "Node Cli node 开发小工具 代码生成器",
@@ -13,7 +13,7 @@
   "bin": {
     "tools": "./cli/index.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "@darkobits/lolcatjs": "^3.1.5",
     "chalk": "^4.1.2",
     "commander": "^8.1.0",
@@ -28,5 +28,9 @@
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chessyu/tools-cli.git"
   }
 }
