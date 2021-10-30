@@ -8,8 +8,15 @@ module.exports = {
         {
             name: 'H5模板 --- Vue全家桶 + elementUI + mand mobile',
             value: 'h5vue',
-            git: '',
+            git: 'https://github.com/chessyu/template-H5.git',
             checked: true      //默认选中
-        }
+        },
+        {
+            name: '后台管理系统模板 ---Vite + Vue3 + TypeScript + Ant-design-vue + I18n',
+            value: 'adminSystem',
+            git: 'https://github.com/anncwb/vue-vben-admin.git',
+            cchecked:false
+        },
+        
     ]
 }
