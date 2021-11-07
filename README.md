@@ -25,9 +25,9 @@ npm run tools -v
 
 ```
 
-- ![示例图]("https://github.com/chessyu/tools-cli/blob/main/public/images/readme_1.png")
+- ![示例图]("/public/images/readme_1.png")
 
-- ![示例图]("https://github.com/chessyu/tools-cli/blob/main/public/images/readme_2.png")
+- ![示例图]("/public/images/readme_2.png")
 
 ### 如何使用方法
 
@@ -48,7 +48,7 @@ npm run tools -v
     └─pc
             defaultView.js  // 创建模块中的文件 (单选一个文件)
 
-- ![示例图]("https://github.com/chessyu/tools-cli/blob/main/public/images/readme_3.png")
+- ![示例图]("/public/images/readme_3.png")
 
 
 ### 已实现功能
