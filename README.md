@@ -33,7 +33,7 @@ npm run tools -v
 
 - 生成配置文件
 运行命令 ` tools genconf` 可在当前目录中生成 **publicCliConfig**目录，包含了如下配置文件
-
+```
 └─publicCliConfig       // 目录
     │  apiConfig.js        // 创建模块中的 api 请求文件
     │  baseConf.js        // 根据项目实际情况配置文件生成的路径及初始化
@@ -47,7 +47,7 @@ npm run tools -v
     │
     └─pc
             defaultView.js  // 创建模块中的文件 (单选一个文件)
-
+```
 - ![示例图](/public/images/readme_3.png)
 
 

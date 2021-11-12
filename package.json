@@ -1,6 +1,6 @@
 {
   "name": "public-tools-cli",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "main": "index.js",
   "license": "MIT",
   "description": "Node Cli node 开发小工具 代码生成器",
