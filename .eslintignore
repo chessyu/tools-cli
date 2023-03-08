@@ -1,0 +1,12 @@
+node_modules/
+.temp/
+lib/
+dist/
+.cz-config.js
+.eslintrc.js
+commitlint.config.js
+/low-code
+/src
+/types
+/cli/__CUSTOMCLICONFIG__
+/cli/__SYSTEMCLICONFIG__

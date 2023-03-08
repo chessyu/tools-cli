@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "jsx": "react",
+    "target": "ESNext",
+    "lib": ["es6", "DOM"],
+    "types": ["node"],
+    "module": "commonjs",
+    "outDir": "./",
+
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitThis": true,
+    "typeRoots": ["./node_modules/@types", "./types"],
+    "baseUrl": "./src/client",
+    "paths": {
+      "@/*": ["/*"],
+      "@api/*": ["api/*"],
+      "@assets/*": ["assets/*"],
+      "@components/*": ["components/*"],
+      "@hooks/*": ["hooks/*"],
+      "@models/*": ["models/*"],
+      "@pages/*": ["pages/*"],
+      "@recoil/*": ["recoil/*"],
+      "@routes/*": ["routes/*"],
+      "@utils*": ["utils/*"],
+      "@types*": ["types/*"]
+    }
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "webpack.config.js", "dist", "src/server"]
+}
