@@ -31,15 +31,15 @@ program
   .version(transform(logo_0), '-v, --version', '查看当前版本号')
   .usage(transform('前端开发脚手架'))
 
-program
-  .command('ui')
-  .description('可视化低代码平台')
-  .option('-p, --port <port>', '配置启动端口 (默认端口 8087)')
-  .action((source, description) => {
-    require('./ui.js')(source, description)
-    // console.log(path.resolve("./"))
-    // run('npm run ui');
-  })
+// program
+//   .command('ui')
+//   .description('可视化低代码平台')
+//   .option('-p, --port <port>', '配置启动端口 (默认端口 8087)')
+//   .action((source, description) => {
+//     require('./ui.js')(source, description)
+// console.log(path.resolve("./"))
+// run('npm run ui');
+// })
 
 program
   .command('init')

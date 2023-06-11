@@ -1,6 +1,6 @@
 {
   "name": "public-tools-cli",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "main": "index.js",
   "license": "MIT",
   "description": "Node Cli 脚手架",
