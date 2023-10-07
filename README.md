@@ -57,7 +57,7 @@ nrm use tools-service
 
 ```
 
-![示例图](http://xxx.xxx.xxxx:9980/toolsong/base/tools-node-cli/-/raw/master/public/images/readme_4.png)
+![示例图](https://github.com/chessyu/tools-cli/blob/main/public/images/readme_4.png)
 
 ### 正确使用命令姿势
 
@@ -151,15 +151,15 @@ nrm use tools-service
 
 **创建模块 tools model 命令** 是基于 Vue 项目进行，进入目录中
 
-![示例图](http://xxx.xxx.xxxx:9980/toolsong/base/tools-node-cli/-/raw/master/public/images/readme_5.png)
+![示例图](https://github.com/chessyu/tools-cli/blob/main/public/images/readme_5.png)
 
 生成后的目录结构
-![示例图](http://xxx.xxx.xxxx:9980/toolsong/base/tools-node-cli/-/raw/master/public/images/readme_6.png)
+![示例图](https://github.com/chessyu/tools-cli/blob/main/public/images/readme_6.png)
 
 **tools interface 命令**
 
-![示例图](http://xxx.xxx.xxxx:9980/toolsong/base/tools-node-cli/-/raw/master/public/images/readme_7.png)
+![示例图](https://github.com/chessyu/tools-cli/blob/main/public/images/readme_7.png)
 
-![示例图](http://xxx.xxx.xxxx:9980/toolsong/base/tools-node-cli/-/raw/master/public/images/readme_8.png)
+![示例图](https://github.com/chessyu/tools-cli/blob/main/public/images/readme_8.png)
 
-![示例图](http://xxx.xxx.xxxx:9980/toolsong/base/tools-node-cli/-/raw/master/public/images/readme_9.png)
+![示例图](https://github.com/chessyu/tools-cli/blob/main/public/images/readme_9.png)
